@@ -13,5 +13,10 @@
     "id": 3,
     "text": "API 문서 작성하기",
     "completed": false
+  },
+  {
+    "id": 4,
+    "text": "CI/CD 확인",
+    "completed": true
   }
 ]
